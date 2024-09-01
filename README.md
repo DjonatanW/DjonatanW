@@ -6,7 +6,7 @@
 - 🎓 Pós graduado em Ciência de Dados e Inteligência Artificial na <a href="https://www.uninter.com/" target="_blank">UNINTER</a>.
 - 🎓 Pós graduado em Indústria 4.0 na <a href="https://www.uninter.com/" target="_blank">UNINTER</a>.
 - 👨🏼‍💻 Trabalhando como Desenvolvedor de Sistemas na <a href="https://www.tramontina.com.br/" target="_blank">Tramontina</a>.
-- 🎮👀 Hobby gosto de jogar e assistir séries. 
+- 🎮👀 Hobby gosto de jogar e assistir séries e filmes. 
 
   
 <div style="display: inline_block"><br>
